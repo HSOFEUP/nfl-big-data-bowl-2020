@@ -1,0 +1,8 @@
+kaggle/competitions/nflrush/__init__.py
+kaggle/competitions/nflrush/competition.cpython-36m-x86_64-linux-gnu.so
+kaggle/competitions/nflrush/sample_submission.csv.encrypted
+kaggle/competitions/nflrush/test.csv.encrypted
+train_cleaned_formations.csv
+train.csv
+train_proc.csv
+train_cleaned.csv
